@@ -11,10 +11,10 @@ import { BrowserRouter, HashRouter } from 'react-router-dom';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    {/* <BrowserRouter> */}
     <HashRouter>
     <App />
     </HashRouter>
-    </BrowserRouter>
+    {/* </BrowserRouter> */}
   </StrictMode>,
 )
