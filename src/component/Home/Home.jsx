@@ -27,7 +27,7 @@ const Home = () => {
               </span>
             </>
           }
-          title="Widget title"
+          title="PRODUCT LIST"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
@@ -116,7 +116,7 @@ const Home = () => {
               </span>
             </>
           }
-          title="Widget title"
+          title="CATEGORY"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
@@ -204,7 +204,7 @@ const Home = () => {
               </span>
             </>
           }
-          title="Widget title"
+          title="PRODUCTS"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
@@ -277,7 +277,7 @@ const Home = () => {
               </span>
             </>
           }
-          title="Widget title"
+          title="USERS"
           action={
             <CDropdown alignment="end">
               <CDropdownToggle color="transparent" caret={false} className="p-0">
