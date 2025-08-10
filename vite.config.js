@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/MuhammadRaza27/Admin-Panel/', // <-- EXACT repo name
+  base: '/Admin-Panel', // <-- EXACT repo name
 })
